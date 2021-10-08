@@ -1,0 +1,19 @@
+div p {
+  color: red;
+}
+
+/* h2 + p { seguidos
+
+} */
+
+/* h2 ~ p{ hermanos
+
+} */
+
+/* h2 > p{ hijo
+
+} */
+
+/* div p { todos los hijos
+  color: red;
+} */
