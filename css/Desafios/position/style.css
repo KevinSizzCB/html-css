@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 20vh 0;
+}
+.header {
+  width: 500px;
+  height: 50px;
+  background-color: rgb(182, 226, 226);
+  margin: 0 auto;
+  border: 1px solid #000;
+  border-radius: 10px;
+  position: relative;
+  bottom: -25px;
+  vertical-align: middle;
+  padding-top: 15px;
+}
+.header p {
+  text-align: center;
+  /* margin: auto 0; */
+  align-self: center;
+  font-family: "Times New Roman", Times, serif;
+}
+.content {
+  background-color: rgb(172, 138, 226);
+  padding: 50px;
+  border: 2px solid #000;
+  border-radius: 10px;
+  margin: 0 40px;
+}

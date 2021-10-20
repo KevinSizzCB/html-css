@@ -3,6 +3,9 @@
   margin: 0;
   padding: 0;
 }
+body {
+  margin: 900px 800px;
+}
 .parent {
   border: 2px black dotted;
   display: inline-block;
